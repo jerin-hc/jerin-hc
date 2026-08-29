@@ -3,13 +3,6 @@
 <p align="center">
   <b>Software Engineer @ IBM · 6+ Years · Building things that scale (and sometimes explode) 🚀</b>
 </p>
-
-<p align="center">
-  <a href="https://github.com/jerin-hc">
-    <img src="https://img.shields.io/badge/GitHub%20(main)-jerin--hc-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🛠 Tech Stack
@@ -85,18 +78,3 @@ Building custom MCP (Model Context Protocol) servers — pluggable agentic skill
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerin-hc&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerin-hc&theme=tokyonight" />
 </p>
-
----
-
-### 📬 Find Me
-
-<p align="center">
-  <a href="https://github.com/jerin-hc">
-    <img src="https://img.shields.io/badge/jerin--hc%20(main)-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/jerin-stack">
-    <img src="https://img.shields.io/badge/jerin--stack%20(personal)-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Two GitHub accounts. Double the commits. Double the fun.</i></p>
