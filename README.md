@@ -35,11 +35,11 @@
 
 ### 🔥 About Me
 
-- 🏢 **Currently at IBM** — working on **Instana** (observability platform) and **Terraform providers**
+- 🏢 **Currently at IBM** — working on **Terraform Cloud**
 - ☸️ Deep into **Kubernetes operators**, microservices, and the beautiful chaos of distributed systems
 - 🐧 Arch Linux + Neovim + DeepSeek. No, I will not elaborate.
 - 🎮 When I'm not shipping production code, I'm building hobby projects that no one asked for but everyone needs
-- 🌱 Always curious — currently poking at **Kubernetes internals** and **eBPF**
+- 🌱 Always curious — currently poking at **Agentic AI**
 
 ---
 
